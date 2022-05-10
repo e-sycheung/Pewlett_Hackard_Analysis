@@ -1,3 +1,9 @@
+schema.sql
+queries.sql
+retirement_info.sql
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
